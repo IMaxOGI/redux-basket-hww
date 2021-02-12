@@ -63,3 +63,5 @@ function productsReducer(state = initialState, action) {
   }
 }
 export default productsReducer;
+
+// Для тестов сервера postman
